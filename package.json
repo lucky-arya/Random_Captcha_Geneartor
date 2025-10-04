@@ -1,0 +1,22 @@
+{
+  "name": "crazy-random-captcha",
+  "version": "0.2.0",
+  "private": true,
+  "description": "A tiny embeddable crazy random captcha generator and React demo (Vite).",
+  "main": "src/crazy-captcha.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["captcha","random","canvas","emoji","security","fun","react","vite"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
